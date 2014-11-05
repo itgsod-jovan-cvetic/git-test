@@ -2,7 +2,5 @@
 
 This is my first project
 
-* this
-* is
-* a
-* list
+## I don't need no stinkin' list!
+
